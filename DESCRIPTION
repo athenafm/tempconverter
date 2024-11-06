@@ -1,0 +1,12 @@
+Package: tempconverter
+Title: Converting Fahrenheit to Celsius 
+Version: 0.0.0.9000
+Authors@R: person ("Athena","Flores Miranda", email = "florea3@mcmaster.ca", role = c("aut", "cre"))
+Description: This package include information and functions on how to convert Fahrenheit to Celsius. 
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
