@@ -1,5 +1,8 @@
 # Temp Converter 
 
+The goal of Temp Converter is to 
+
+
 # Packages
 
 <!-- badges: start -->
